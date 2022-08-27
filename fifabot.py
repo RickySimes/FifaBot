@@ -1,5 +1,3 @@
-from cProfile import label
-from logging import root
 from tkinter import *
 
 def initView(root):
